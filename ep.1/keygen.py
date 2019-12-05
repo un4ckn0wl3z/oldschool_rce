@@ -12,7 +12,7 @@ name = input('Enter your name: ')
 md5_name = hashlib.md5(name.encode())
 print("Your hashed: ", md5_name.hexdigest())
 
-salted = PREFIX+str(insert_salt(insert_salt(md5_name.hexdigest(), 2), 4).replace(' ', CONSTANT_SALT)).upper()
+salted = PREFIX + str(insert_salt(insert_salt(md5_name.hexdigest(), 2), 4).replace(' ', CONSTANT_SALT)).upper()
 
 
 print("Your serial: ",  hashlib.md5(salted.encode()).hexdigest())
