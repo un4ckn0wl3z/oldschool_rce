@@ -15,7 +15,7 @@ print("Your hashed: ", md5_name.hexdigest())
 salted = PREFIX+str(insert_salt(insert_salt(md5_name.hexdigest(), 2), 4).replace(' ', CONSTANT_SALT)).upper()
 
 
-print("Your key: ",  hashlib.md5(salted.encode()).hexdigest())
+print("Your serial: ",  hashlib.md5(salted.encode()).hexdigest())
 
 
 
