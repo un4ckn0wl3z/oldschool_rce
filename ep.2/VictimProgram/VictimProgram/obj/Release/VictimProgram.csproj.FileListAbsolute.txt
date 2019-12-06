@@ -1,0 +1,9 @@
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\bin\Release\VictimProgram.exe.config
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\bin\Release\VictimProgram.exe
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\bin\Release\VictimProgram.pdb
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\obj\Release\VictimProgram.Form1.resources
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\obj\Release\VictimProgram.Properties.Resources.resources
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\obj\Release\VictimProgram.csproj.GenerateResource.cache
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\obj\Release\VictimProgram.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\obj\Release\VictimProgram.exe
+C:\Users\anuwat\source\repos\VictimProgram\VictimProgram\obj\Release\VictimProgram.pdb
