@@ -1,0 +1,6 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe
+
+gcc -m64 -shared -o aMessageBoxDll_64.dll MessageBoxDll\MessageBoxDll.cpp
+
+
+C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0
